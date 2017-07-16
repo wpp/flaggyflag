@@ -53,6 +53,10 @@ body {
   margin: 0;
 }
 
+.quote {
+  font-style: italic;
+}
+
 h1 {
   font-size: 3em;
   margin: 1rem;
